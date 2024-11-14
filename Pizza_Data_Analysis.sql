@@ -1,7 +1,3 @@
---  DATABASE CREATION 
-CREATE DATABASE PIZZA;
-USE PIZZA;
-
 -- Retrieve the total number of orders placed.
 SELECT COUNT(*) AS TOTAL_ORDERS
 FROM ORDERS
