@@ -93,6 +93,31 @@ This will help use generate some new columns from existing ones.
 
 <br>
 
+# Pizza Shop Dashboard
+
+<br>
+
+## 1. Main Page
+<img src="Main_Page.png" width=850 heigth=850>
+<br>
+
+## 2. Category Details Page 
+### 1. Category = Classic
+<img src="Category_Classic.png" width=850 heigth=850>
+<br>
+
+### 2. Category = Chicken
+<img src="Category_Chicken.png" width=850 heigth=850>
+<br>
+
+### 3. Category = Supreme
+<img src="Category_Supreme.png" width=850 heigth=850>
+<br>
+
+### 4. Category = Veggie
+<img src="Category_Veggie.png" width=850 heigth=850>
+<br>
+
 ## Author
 ### Tushar Mukherjee 
 
